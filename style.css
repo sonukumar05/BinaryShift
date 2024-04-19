@@ -1,0 +1,53 @@
+/* Custom Navbar */
+.navbar {
+  background-color: #333;
+}
+.navbar-brand {
+  font-size: 28px;
+}
+.nav-link {
+  color: #fff;
+}
+.nav-link:hover {
+  color: #ccc;
+}
+
+/* Custom Blog Post */
+.blog-post {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+.blog-post h2 {
+  color: #333;
+}
+.blog-post .text-muted {
+  color: #888;
+}
+
+/* Custom Button */
+.btn-primary {
+  background-color: #f0324b;
+  border-color: #f0324b;
+}
+.btn-primary:hover {
+  background-color: #c70039;
+  border-color: #c70039;
+}
+
+/* Custom List Group */
+.custom-list-group {
+  background-color: #f8f9fa;
+  border: none;
+}
+.list-group-item {
+  background-color: transparent;
+  border: none;
+}
+.list-group-item a {
+  color: #333;
+}
+.list-group-item a:hover {
+  color: #f0324b;
+}
